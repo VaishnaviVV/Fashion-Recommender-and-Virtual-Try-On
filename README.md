@@ -1,4 +1,4 @@
-# Fashion-Recommender-and-virtual-try-on
+# Fashion-Recommender-and-Virtual-Try-On
 
 
 # DeepFashion Dataset
