@@ -3,7 +3,7 @@
 
 # DeepFashion Dataset
 
-Deep Fashion is a large clothes research database with various options like:
+_DeepFashion_ is a large clothes research database with various clothing aspects covered, like:
 - Category and Attribute Prediction
 - In-Shop Clothes Retrieval
 - Consumer-to-Shop Clothes Retrievel
