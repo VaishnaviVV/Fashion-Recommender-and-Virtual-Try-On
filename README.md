@@ -24,3 +24,6 @@ Dataset Link: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
  year = {2016} 
  }
  ```
+ 
+ # Google Drive Link (FOR CONTRIBUTORS)
+https://drive.google.com/drive/folders/1FPqdFNZdLE5SBVcVGvY-GRUxg0BhXkBM?usp=sharing
