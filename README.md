@@ -25,7 +25,9 @@ Dataset Link: http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
  }
  ```
  
- 
+# This research has been published on the IEEE Data Intelligence and Cognitive Informatics (ICDICI) Conference
+
+Publication Link: https://ieeexplore.ieee.org/abstract/document/10810981
 <!---
 # Google Drive Link (FOR CONTRIBUTORS)
 https://drive.google.com/drive/folders/1FPqdFNZdLE5SBVcVGvY-GRUxg0BhXkBM?usp=sharing---!> 
